@@ -39,8 +39,24 @@ Demerits of a Public repository
 * Public repositories may require more effort to manage issues, pull requests, and community interactions.
 
 
-
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+* Create a GitHub Account: If you don’t have one, sign up for a GitHub account at github.com.
+* Create a New Repository
+* Create or edit files in your repository using a text editor or IDE.
+* Download GitHub desktop app and signin with the same credentials.
+* selecte the repository you want to commit your changes.
+* After making changes, stage them for commit
+* Commit the staged changes with a message
+* Push your commit to the remote repository on GitHub
+
+Commits in Git are snapshots of your project at a specific point in time.
+
+Ways Commint help tracking
+-
+* Commits allow you to track the history of your project.
+* If a mistake is made, you can revert to a previous commit, effectively undoing changes.
+* Commits enable branching, allowing multiple lines of development. You can merge branches back into the main project when ready.
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
